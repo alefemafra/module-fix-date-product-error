@@ -1,0 +1,16 @@
+{
+    "name": "alefe/module-fixdateproducterror",
+    "description": "N/A",
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0"
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Alefe\\FixDateProductError\\": ""
+        }
+    }
+}
